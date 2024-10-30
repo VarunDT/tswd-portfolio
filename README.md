@@ -3,7 +3,6 @@
 - Web page URL: [https://varundt.github.io/tswd-portfolio](https://varundt.github.io/tswd-portfolio/)
 - This repository: [https://github.com/VarunDT/tswd-portfolio](https://github.com/VarunDT/tswd-portfolio)
 
-# Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! Here's where I will showcase my coursework and projects, demonstrating my passion for data visualization and storytelling.
 
 # About me
