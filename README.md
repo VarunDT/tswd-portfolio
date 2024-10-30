@@ -12,7 +12,7 @@ Hi, I am Varun Talreja. I was born in Mumbai, India, and currently reside in Pit
 I am currently pursuing a Master of Information Systems Management (MISM) at Carnegie Mellon University, specializing in Business Intelligence and Data Analytics. This aligns with my passion for data-driven exploration and problem-solving. I hold a Bachelor of Technology in Computer Engineering from Dwarkadas J. Sanghvi College of Engineering. 
 
 # Contact
-You can reach via [Email](vtalreja@andrew.cmu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/varun-talreja-0272851b2/).
+You can reach via [Email]<vtalreja@andrew.cmu.edu> or connect with me on [LinkedIn](https://www.linkedin.com/in/varun-talreja-0272851b2/).
 
 # What I hope to learn
 Through this course, I aim to:
