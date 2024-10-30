@@ -33,5 +33,7 @@ Critiquing visualizations with a focus on design and audience engagement.
 
 ## Final project
 [Part I](final-project-part-one)
+
 [Part II](final-project-part-two)
+
 Part III(final-project-part-three)
