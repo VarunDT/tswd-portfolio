@@ -1,6 +1,6 @@
 | [home page](https://varundt.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-- Web page URL: [[https://varundt.github.io/tswd-portfolio](https://varundt.github.io/tswd-portfolio/)]
+- Web page URL: [https://varundt.github.io/tswd-portfolio](https://varundt.github.io/tswd-portfolio/)
 - This repository: [https://github.com/VarunDT/tswd-portfolio](https://github.com/VarunDT/tswd-portfolio)
 
 # Portfolio
