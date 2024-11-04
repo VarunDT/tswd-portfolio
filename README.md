@@ -24,7 +24,7 @@ Through this course, I aim to:
 # Portfolio
 This section will contain my coursework, assignments, and final project.
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 Exploring national debt data using Tableau to create visual narratives.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
