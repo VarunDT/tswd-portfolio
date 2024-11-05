@@ -74,11 +74,20 @@ To replicate this process in Tableau:
 
 ## Part three: create your own visualization
 
-_Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
+To create a box and whisker plot in Tableau based on your previous sheet:
+1. **Duplicate Sheet**: Right-click on "Sheet 1" in the sheet tabs at the bottom and select "Duplicate" to create a copy of the original sheet.
+2. **Select Box and Whisker Plot**: In the "Show Me" panel on the right, choose "Box and Whisker Plot."
+3. **Relabel the Axes**: Double-click on each axis title to rename them appropriately (e.g., "Year" for the x-axis and "Debt-to-GDP Ratio" for the y-axis).
+4. **Customize Box Appearance**:
+   - Click on the box plot, and then click on "Edit"  toselect the style, color and adjust the opacity slider to set the transparency level for the box.
+   - Customize the borders and box thickness as needed.
+5. **Format Location Points**:
+   - Click on the individual data points (location points) within the Marks card.
+   - Adjust the color, opacity, and size to make them visually distinct and ensure they stand out from the boxes.
+6. **Adjust Axis Width and Ticks**:
+   - Right-click on each axis, select "Edit Axis," and modify the range, tick marks, and width to your preference for clearer data presentation.
 
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
-
-_It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
+This will create a customized box and whisker plot that allows for easy visual comparison of the max, min and average Debt-to-GDP ratios over time.
 
 <div class='tableauPlaceholder' id='viz1730766365733' style='position: relative'>
     <noscript>
