@@ -7,7 +7,12 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
+To replicate this visualization, follow these steps:
+1. Visit the [OECD data site](https://www.oecd.org/en/data.html). You’ll see a few featured visualizations on the main page.
+2. In the search bar, type "government debt" and select "General government debt" from the results to access the government debt-to-GDP ratio data.
+3. Review the summary description and explore the chart. Hover over a bar to see specific data, and click on countries to highlight them in different colors.
+4. Adjust the slider below the graph to display data for a single year. Move the slider to find a recent year with comprehensive data (e.g., I have selected 2019 for this embedded image).
+5. To download the chart, click the three-dot icon in the top right corner, and choose the .png option to save the image to your device.
 
 ![General Government Debt as % of GDP (2019)](https://github.com/VarunDT/tswd-portfolio/blob/c48f5afa91fb93b3861f85284621964d34bfe0f2/OECD%3AGGD?raw=true)
 
