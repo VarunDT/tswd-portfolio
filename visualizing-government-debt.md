@@ -9,6 +9,7 @@ _As before, this template provides some of the structure you should have for you
 
 _Include your visualization, and introduce us to what you did._
 
+![General Government Debt as % of GDP (2019)](https://github.com/VarunDT/tswd-portfolio/blob/c48f5afa91fb93b3861f85284621964d34bfe0f2/OECD%3AGGD?raw=true)
 
 ## Working with Tableau
 
