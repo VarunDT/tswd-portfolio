@@ -19,7 +19,24 @@ To replicate this visualization, follow these steps:
 
 ## Working with Tableau
 
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+To replicate this process in Tableau:
+1. **Download Data**: Save the OECD dataset from the previous link.
+2. **Open Data in Tableau**: Launch Tableau Desktop. Under "Connect," select "Text file" and open your saved OECD dataset.
+3. **Set Date Format**: If the "Time" column is read as a number, click the "#" icon above it and select "Date", to save it as a Year.
+4. **Create Data Extract**: Under "Connection," select "Extract" to enable publishing later.
+5. **Go to Worksheet**: Click "Go to Worksheet" above the "Sheet 1" tab.
+6. **Build a Line Chart**:
+   - Drag "Time" to Columns and "Value" to Rows.
+   - Drag "Location" to the Marks card.
+7. **Switch to Highlight Table**:
+   - In "Show Me," select "Highlight Tables."
+   - Tableau will auto-add fields for a heatmap view of debt-to-GDP ratios.
+8. **Sort Data**: Click the "Location" dropdown, choose "Sort," then sort by "Field" in "Descending" order, with "Average" aggregation.
+9. **Customize Colors**:
+   - In the Marks card, click "Color" > "Edit Colors."
+   - Select "Orange-Blue Diverging," check "Reversed," and set 100 as the center value.
+10. **Filter Out Missing Data**: Remove Colombia by clicking "Location" > "Filter" and unselecting "COL", since it has no data
+11. **Finishing Touches**: Rename the sheet, add a data source citation, and save the workbook.
 
 <div class='tableauPlaceholder' id='viz1730766615644' style='position: relative'>
     <noscript>
