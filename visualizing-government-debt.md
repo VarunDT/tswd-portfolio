@@ -18,7 +18,7 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
 <div class='tableauPlaceholder' id='viz1730765667463' style='position: relative'>
     <noscript>
         <a href='#'>
-            <img alt='GENERAL GOVERNMENT DEBT (1995- 2019) SOURCE: OECD GENERAL GOVERNMENT DEBT (https://www.oecd.org/en/data/indicators/general-government-debt) DEFINITION: General government debt is the gross debt of the general government as a percentage of GDP.' src='https://public.tableau.com/static/images/OE/OECDGOVTDEBT/Sheet1/1_rss.png' style='border: none' />
+            <img alt='GENERAL GOVERNMENT DEBT (1995-2019) SOURCE: OECD GENERAL GOVERNMENT DEBT (https://www.oecd.org/en/data/indicators/general-government-debt) DEFINITION: General government debt is the gross debt of the general government as a percentage of GDP.' src='https://public.tableau.com/static/images/OE/OECDGOVTDEBT/Sheet1/1_rss.png' style='border: none' />
         </a>
     </noscript>
     <object class='tableauViz' style='display: none;'>
@@ -47,6 +47,7 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 ## Part three: create your own visualization
 
