@@ -1,11 +1,10 @@
 | [home page](https://varundt.github.io/tswd-portfolio) | [visualizing debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
+# Visualising Government Debt
 
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
+This assignment covers three different ways to visualize the same data and steps on how to recreate the data visualization. In the end, there is also an explanation on why a particular visualisation works best in explaining the particular part of the data.
 
-## Part one: Working with web-based visualization tools and data
+## Part One: Working with web-based visualization tools and data
 
 To replicate this visualization, follow these steps:
 1. Visit the [OECD data site](https://www.oecd.org/en/data.html). You’ll see a few featured visualizations on the main page.
@@ -17,7 +16,7 @@ To replicate this visualization, follow these steps:
 
 ![General Government Debt as % of GDP (2019)](https://github.com/VarunDT/tswd-portfolio/blob/c48f5afa91fb93b3861f85284621964d34bfe0f2/OECD%3AGGD?raw=true)
 
-## Working with Tableau
+## Part Two: Working with Tableau
 
 To replicate this process in Tableau:
 1. **Download Data**: Save the OECD dataset from the previous link.
@@ -72,7 +71,7 @@ To replicate this process in Tableau:
 </script>
 
 
-## Part three: create your own visualization
+## Part Three: create your own visualization
 
 To create a box and whisker plot in Tableau based on your previous sheet:
 1. **Duplicate Sheet**: Right-click on "Sheet 1" in the sheet tabs at the bottom and select "Duplicate" to create a copy of the original sheet.
@@ -121,6 +120,14 @@ This will create a customized box and whisker plot that allows for easy visual c
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+## Explaining the Visualizations
+
+This section summarizes different visualization methods used to analyze the OECD's "General Government Debt" data. We created three visualizations—a bar chart(sourced from the website), a heatmap (professor’s choice), and a box plot (personal choice). Each plot offers insights into how countries' debt-to-GDP ratios have evolved from 1995 to recent years.
+
+The bar chart on the OECD website includes a complementary slider to adjust the year, allowing a focused view of each year and a magnified view of each country's data for that particular year. While this is useful for examining individual years, but combining all bar charts over time would make it difficult to extract meaningful trends. The heatmap effectively highlights high and low debt levels across countries and years, with color shades making it easy to spot trends. We can set any averag value we want and see how the data revolves around that average value. This approach allows for quick, comparative analysis not only for data of a particular location for different years, but also across multiple locations at the glance-of-an-eye. This approach is better than the first one as it occupies lesser space and the viewer's task is limited, but it lacks details on overall data spread and outliers. The box plot addresses this limitation by showing the distribution of the data for each year, including median values, ranges, and outliers. It provides a clearer picture of typical range of debt values while revealing variations for the given countries over time. This chart also helps identify highlight any extreme cases or high variance between countries. I personally chose the box plot, because the first 2 plots were very focused on particular locations, but the box plot gives a more overall idea of how the debt fluctuates over the years and also how much the average debt of all countries shifts as the years progress.
+
+
 
 
 
