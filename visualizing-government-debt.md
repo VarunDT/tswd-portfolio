@@ -14,6 +14,7 @@ To replicate this visualization, follow these steps:
 4. Adjust the slider below the graph to display data for a single year. Move the slider to find a recent year with comprehensive data (e.g., I have selected 2019 for this embedded image).
 5. To download the chart, click the three-dot icon in the top right corner, and choose the .png option to save the image to your device.
 
+
 ![General Government Debt as % of GDP (2019)](https://github.com/VarunDT/tswd-portfolio/blob/c48f5afa91fb93b3861f85284621964d34bfe0f2/OECD%3AGGD?raw=true)
 
 ## Working with Tableau
