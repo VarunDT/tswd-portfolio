@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://varundt.github.io/tswd-portfolio) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Title
 Text here!
@@ -8,6 +8,7 @@ _As before, this template provides some of the structure you should have for you
 ## Part one: Working with web-based visualization tools and data
 
 _Include your visualization, and introduce us to what you did._
+
 
 ## Working with Tableau
 
