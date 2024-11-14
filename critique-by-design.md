@@ -142,7 +142,9 @@ To evaluate the effectiveness of my redesigned visualization, I shared it with s
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-**Final Step Summary**
+---
+
+**Final Step Summary**:
 
 In response to the feedback, I implemented several adjustments in the final redesign to enhance clarity, accessibility, and overall user experience. First, the title was revised to more explicitly convey that the visualization ranks car brands by “problems per 100 vehicles,” providing immediate context and eliminating any potential ambiguity around the data’s focus. This change was essential to ensure that viewers understood that the chart highlights brands with fewer reported issues as the most reliable. The color scheme was another major area of improvement. Additionally, I added labels on the right side of the chart indicating “More Reliable” at the top and “Less Reliable” at the bottom. These labels provide immediate context for viewers, helping them to interpret the color scheme and ranking direction without needing further explanation. Emphasizing the industry average was another critical improvement. I used a dashed line to represent the average, extending it  across the chart to provide a clear benchmark. This line makes it easier for viewers to assess each brand’s reliability relative to the industry standard, allowing them to see at a glance which brands perform above or below average. To streamline the visualization and reduce distractions, I removed unnecessary elements, such as country flags next to brand names. Since the country of origin wasn’t directly relevant to reliability, omitting these flags reduced visual clutter and allowed viewers to focus on the data itself. Furthermore, I increased the font size for brand names to enhance readability, ensuring that the chart remains accessible and easy to read across various devices and screen sizes.
 
