@@ -139,3 +139,8 @@ To evaluate the effectiveness of my redesigned visualization, I shared it with s
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+In response to the feedback, several adjustments were made in the final redesign. First, the title was revised to clarify that the visualization ranked brands by “problems per 100 vehicles.” The color scheme was adjusted to use a gradient from green (fewer problems) to red (more problems) and not have a break in the middle. Additionally, labels indicating “More Reliable” and “Less Reliable” were added on the sides of the visualization to provide immediate context for viewers. The industry average was emphasized with a dashed line, extending across the chart to make it a clearer reference point for assessing each brand's reliability. I also removed unnecessary elements, like country flags, to reduce visual clutter. The font size for brand names was increased to improve readability across different viewing platforms. For the second visualization, I focused on creating a simplified view that highlights only the five most and least reliable brands. This visualization uses a horizontal bar chart showing the deviation from the average, allowing viewers to quickly see which brands performed above or below the industry standard. 
+
+
+
