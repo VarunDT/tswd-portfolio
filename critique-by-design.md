@@ -1,27 +1,39 @@
 | [Home Page](https://varundt.github.io/tswd-portfolio/) | [Visualizing Debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt) | [Critique by Design](https://varundt.github.io/tswd-portfolio/critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Redesigning Data Visualizations: A Critique-by-Design Approach
-For this assignment, a 5 step approach was used:
-1. Picking a Chart to Redesign: First, I chose a chart that needed improvement. I found this on MakeoverMonday, where people often share visuals that could be clearer or more effective.
+In this project, I followed a structured critique-by-design process to enhance a data visualization through five key steps:
 
-2. Critiquing the Visulaisation: I looked at the chart and noted what wasn’t working well, like if it was hard to read, too crowded, or confusing. This helped me understand what needed fixing.
+**1. Selecting a Visualization for Redesign:** I chose a visualization from MakeoverMonday that presented opportunities for improvement in clarity and readability.
 
-3. Sketching a New Version: Next, I sketched a new version using the data found on the website. This was a quick way to try out ideas, focusing on making the information clearer and easier to follow.
+**2. Critiquing the Original Visualization:** I evaluated the visualization’s strengths and weaknesses, noting issues such as readability, color scheme, clutter, and interpretability. This critique helped me identify specific areas to improve.
 
-4. Getting Feedback: I showed my sketch to others to see if they understood it better. Their feedback helped me tweak my design to make it even clearer.
+**3. Sketching a New Design:** Using the data provided on the visualization’s website and my critique, I created a basic sketch and experimented with different layouts to make the information clearer and more accessible.
 
-5. Creating the Final Version: Finally, I made the finished chart using Tableau. I kept the design simple, making sure the data story was easy to grasp.
+**4. Gathering User Feedback:** I shared my sketch with others to assess its clarity compared to the original. Their feedback provided valuable insights, allowing me to refine my design further.
 
-## Step one: the visualization
+**5. Building the Final Version:** Using Tableau, I developed the final visualization, incorporating feedback to ensure a simple, clear, and effective data story.
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-## Step two: the critique
+## Step one: The Visualization
+From the MakeoverMonday website, I selected the following article:
+
+**Source:** [Visual Capitalist - Ranked: The Most Reliable Car Brands in the U.S.](https://www.visualcapitalist.com/ranked-the-most-reliable-car-brands-in-the-u-s/)  
+**Published by:** Marcus Lu on Visual Capitalist, July 18, 2024  
+**Graphic by:** Sam Parker  
+
+**Original Visualization:**
+![Most-Dependable-Car-Brands-in-the-US_Web](https://github.com/user-attachments/assets/bda06976-1dc8-40a1-9586-ee1e55353bf7)
+
+I selected this data visualization because it presents valuable information on vehicle reliability, a crucial consideration for consumers in the U.S. automotive market. The visualization displays a ranking of car brands based on the number of reported issues per 100 vehicles, derived from J.D. Power’s 2024 U.S. Vehicle Dependability Study. The study collected data from over 30,000 owners of 2021 model-year vehicles, analyzing various problem categories such as exterior, interior, infotainment, and driving experience.
+
+This visualization has potential but could be improved in terms of readability, layout, and data interpretation. I believe that with a few adjustments, the information could be presented more effectively, making it easier for viewers to understand at a glance. This selection aligns with my goal of enhancing clarity and storytelling in data visualizations, particularly by addressing common user experience challenges.
+
+## Step two: The Critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
-## Step three: Sketch a solution
+## Step three: Sketch a Solution
 
-## Step four: Test the solution
+## Step four: Test the Solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
