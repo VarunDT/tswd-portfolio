@@ -151,7 +151,8 @@ The purpose of the first visualization is to give users a comprehensive comparat
 For the second visualization, I focused on creating a simplified view that highlights only the five most reliable and five least reliable brands. Using a horizontal bar chart, this visualization shows each brand’s deviation from the industry average, allowing viewers to quickly identify the best and worst performers. Brands that perform better than average are represented with bars extending to the left (in blue), while those that perform worse extend to the right (in gray). This simplified view caters to viewers who may prefer a quick summary of the best and worst performers without needing to analyze the entire dataset. 
 
 <br>
-***AI USAGE NOTE:*** I used ChatGPT and Grammarly to assist with grammar and enhance the professionalism of the text.
+
+**AI USAGE NOTE:** I used ChatGPT and Grammarly to assist with grammar and enhance the professionalism of the text. No content was generated using these tools.
 
 
 
