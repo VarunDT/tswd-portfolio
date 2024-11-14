@@ -36,8 +36,106 @@ This critique applies Stephen Few's "Data Visualization Effectiveness Profile" t
 
 ## Step four: Test the Solution
 
+To evaluate the effectiveness of my redesigned visualization, I shared it with several colleagues and gathered their feedback on its clarity and usability. I used open-ended questions to determine whether the visualization communicated the data clearly without requiring additional explanation. Below are the questions I asked, followed by the key feedback and insights gathered.
 
-## Step five: build the solution
+**Questions Asked During the Feedback Session**
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+1. Can you tell me what you think of this visualization compared to the original one?
+2. Can you describe what story this visualization is trying to tell you?
+3. Is there anything you find surprising or confusing in this chart?
+4. If given the chance, is there anything you would change or do differently?
+5. Do the colors, layout, and text provide enough clarity for you to understand the rankings?
 
+**Key Feedback Received and Insights**
+
+**1. Misleading Title**: The title, “Most Reliable Car Brands,” could be misleading, as it doesn’t make it immediately clear that fewer problems indicate higher reliability. Although the subtitle mentions that fewer problems mean more reliability, this could be overlooked. A more explicit title, such as “Car Brands Ranked by Fewest Problems per 100 Vehicles,” would help eliminate ambiguity. An additional line reinforcing that “higher on the list indicates fewer problems and thus higher reliability” would assist first-time viewers in correctly interpreting the data.
+
+**2. Color Usage**: The color scheme, which transitions from green (fewer problems) to red (more problems), was well-received for intuitively communicating reliability, with green symbolizing better performance and red indicating worse.
+
+**3. Ranking Ambiguity**: There was some initial uncertainty about the ranking direction due to the top-down order of the bars, which might be interpreted in different ways. Adding small markers or text labels, like “Most Reliable” at the top and “Least Reliable” at the bottom, would clarify the ranking, making it immediately clear that brands at the top are more reliable than those at the bottom, especially for viewers unfamiliar with the data source.
+
+**4. Average Line Visibility**: Although the average bar is distinct, it doesn’t stand out as much as expected and may blend into the design. Using a different type of line to highlight it or make it more prominent, along with extending the line horizontally across all bars, would enhance its visibility as a benchmark, allowing viewers to more easily compare each brand’s reliability against the industry average.
+
+**5. Visual Overload**: The number of brands included in the chart made it appear visually overwhelming. A recommended approach was to categorize brands into segments, such as “Top 5 Most Reliable” and “Bottom 5 Least Reliable,” and display only those. This would reduce the amount of data presented at once, highlighting the brands that are extreme outliers in terms of reliability, making it easier for viewers to interpret the information without getting lost in details.
+
+**6. Flag Usage and Font Size**: The inclusion of country flags next to each brand was seen as unnecessary, as the country of origin isn’t directly relevant to reliability. Removing the flags would reduce visual clutter and streamline the design. Additionally, increasing the font size for brand names would improve readability, especially for viewers on smaller screens.
+
+**7. Metric Presentation**: The x-axis metric, “Problems per 100 Vehicles,” focuses on issues rather than direct reliability, which could be confusing for some viewers. Inverting the metric or using a “Reliability Score,” where higher scores represent better reliability, was suggested. However, due to the lack of direct data for a reliability score, this change may require additional data or recalculations. If inverting isn’t possible, adding a small note explaining the metric’s significance and how it relates to reliability would help viewers interpret the data more effectively. 
+
+
+## Step five: Build the Solution
+<div class="tableauPlaceholder" id="viz1731552435792" style="position: relative">
+    <noscript>
+        <a href="#">
+            <img 
+                alt="CAR BRANDS RANKED BY PROBLEMS PER 100 VEHICLES (Source: J.D. Power 2024) NOTE: CARS WITH FEWER PROBLEMS THAN THE AVERAGE ARE CONSIDERED MORE RELIABLE" 
+                src="https://public.tableau.com/static/images/CA/CARASSIGNMENT-PLOT1/Sheet1/1_rss.png" 
+                style="border: none" 
+            />
+        </a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="CARASSIGNMENT-PLOT1/Sheet1" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" value="https://public.tableau.com/static/images/CA/CARASSIGNMENT-PLOT1/Sheet1/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-GB" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1731552435792");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+
+
+<div class="tableauPlaceholder" id="viz1731552678369" style="position: relative">
+    <noscript>
+        <a href="#">
+            <img 
+                alt="FIVE BEST AND WORST CAR BRANDS IN THE US BASED ON RELIABILITY (Source: J.D. Power 2024) NOTE: THE 0 ON THE X-AXIS REPRESENTS THE AVERAGE NUMBER OF PROBLEMS PER 100 VEHICLES THAT A CAR BRAND TYPICALLY EXPERIENCES. CARS BRANDS WITH FEWER PROBLEMS THAN THIS AVERAGE ARE CONSIDERED MORE RELIABLE" 
+                src="https://public.tableau.com/static/images/CA/CARASSIGNMENT-PLOT2/Sheet2/1_rss.png" 
+                style="border: none" 
+            />
+        </a>
+    </noscript>
+    <object class="tableauViz" style="display: none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="CARASSIGNMENT-PLOT2/Sheet2" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" value="https://public.tableau.com/static/images/CA/CARASSIGNMENT-PLOT2/Sheet2/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-GB" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById("viz1731552678369");
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
+    var scriptElement = document.createElement("script");
+    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
