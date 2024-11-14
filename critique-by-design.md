@@ -101,9 +101,7 @@ To evaluate the effectiveness of my redesigned visualization, I shared it with s
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
 <br>
-<\br>
 
 <div class="tableauPlaceholder" id="viz1731552678369" style="position: relative">
     <noscript>
@@ -141,9 +139,7 @@ To evaluate the effectiveness of my redesigned visualization, I shared it with s
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
 <br>
-<\br>
 
 **Final Step Summary**
 
