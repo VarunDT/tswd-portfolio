@@ -1,4 +1,4 @@
-| [Home Page](https://varundt.github.io/tswd-portfolio/) | [Visualizing Debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://varundt.github.io/tswd-portfolio/) | [Visualizing Debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt) | [Critique by Design](https://varundt.github.io/tswd-portfolio/critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 - Web page URL: [https://varundt.github.io/tswd-portfolio](https://varundt.github.io/tswd-portfolio/)
 - This repository: [https://github.com/VarunDT/tswd-portfolio](https://github.com/VarunDT/tswd-portfolio)
@@ -27,7 +27,7 @@ This section will contain my coursework, assignments, and final project.
 ## Assignment: [Visualizing Government Debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt)
 Exploring national debt data using Tableau to create visual narratives.
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](https://varundt.github.io/tswd-portfolio/critique-by-design)
 Critiquing visualizations with a focus on design and audience engagement.
 
 ## Final project
