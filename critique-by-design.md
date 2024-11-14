@@ -29,40 +29,13 @@ I selected this data visualization because it presents valuable information on v
 This visualization has potential but could be improved in terms of readability, layout, and data interpretation. I believe that with a few adjustments, the information could be presented more effectively, making it easier for viewers to understand at a glance. This selection aligns with my goal of enhancing clarity and storytelling in data visualizations, particularly by addressing common user experience challenges.
 
 ## Step two: The Critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+This critique applies Stephen Few's "Data Visualization Effectiveness Profile" to analyze and evaluate the visualization. The primary audience includes car buyers, car owners, and automotive industry professionals interested in vehicle reliability, valuing clear, comparable information to make informed choices. The visualization is somewhat effective in delivering quick, at-a-glance insights into the reliability of different car brands, helping viewers gauge brand performance based on "problems per 100 vehicles." Elements that work well include the dark background and bold, white text, which create visual appeal, and the use of brand logos, which makes the visualization relatable and engaging. Numeric values beside each brand support quick understanding of each brand's ranking, while the bar chart format is well-suited for comparison. However, there are areas for improvement: the two-column layout complicates readability by requiring viewers to scan across both columns to grasp the full ranking, which could be simplified by restructuring into a single-column layout. Additionally, the color gradient, though visually engaging, does not correlate directly with reliability scores, and a more intuitive color scheme (such as green for higher reliability and red for lower) could make the data easier to interpret. Adding an industry average benchmark would offer a reference point for better comparison. Overall, this critique-by-design method effectively highlighted the visualization’s strengths and areas for improvement, making it clear that adjustments to layout, color, and comparison features would enhance clarity, usefulness, and engagement for the audience.
 
 ## Step three: Sketch a Solution
+<img width="1317" alt="Screenshot 2024-11-10 at 6 08 46 PM" src="https://github.com/user-attachments/assets/cd72229e-0ba6-4bf4-ab6c-1ce34a8a5c4a">
 
 ## Step four: Test the Solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
