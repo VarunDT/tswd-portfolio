@@ -1,11 +1,16 @@
 | [Home Page](https://varundt.github.io/tswd-portfolio/) | [Visualizing Debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt) | [Critique by Design](https://varundt.github.io/tswd-portfolio/critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Title
-Text here...
+# Redesigning Data Visualizations: A Critique-by-Design Approach
+For this assignment, a 5 step approach was used:
+1. Picking a Chart to Redesign: First, I chose a chart that needed improvement. I found this on MakeoverMonday, where people often share visuals that could be clearer or more effective.
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+2. Critiquing the Visulaisation: I looked at the chart and noted what wasn’t working well, like if it was hard to read, too crowded, or confusing. This helped me understand what needed fixing.
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+3. Sketching a New Version: Next, I sketched a new version using the data found on the website. This was a quick way to try out ideas, focusing on making the information clearer and easier to follow.
+
+4. Getting Feedback: I showed my sketch to others to see if they understood it better. Their feedback helped me tweak my design to make it even clearer.
+
+5. Creating the Final Version: Finally, I made the finished chart using Tableau. I kept the design simple, making sure the data story was easy to grasp.
 
 ## Step one: the visualization
 
