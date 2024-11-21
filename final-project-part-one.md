@@ -104,7 +104,6 @@ The project provides insights into their growth, audience demographics, lifestyl
 ### Primary Data Sources
 
 This project leverages diverse datasets and resources to ensure a thorough exploration of both traditional sports and e-sports. The data sources are categorized based on their relevance to specific sections of the project. 
----
 
 ### **1. Introduction and Timeline**
 To frame the historical context of traditional sports and e-sports, the following sources provide insights into their origins, key milestones, and distinguishing features:
@@ -115,8 +114,6 @@ To frame the historical context of traditional sports and e-sports, the followin
 - [Oxford Reference: History of Sports Timeline](https://www.oxfordreference.com/display/10.1093/acref/9780191737428.timeline.0001)  
 - [History of E-sports](https://www.cdw.com/content/cdw/en/articles/hardware/history-of-esports.html)  
 - [Sports vs. E-sports Industry Analysis](https://esportsinsider.com/2023/06/esports-vs-sports)  
-
----
 
 ### **2. Growth Over Time**
 For audience and revenue growth trends, I used the following sources to analyze both industries:
@@ -132,8 +129,6 @@ For audience and revenue growth trends, I used the following sources to analyze 
 
 These resources helped create visualizations such as the line and bar graphs comparing audience and revenue trends for sports and e-sports and also the heatmap.
 
----
-
 ### **3. Physical and Social Benefits (Pros and Cons)**
 
 To analyze the pros, cons, and social implications of sports and e-sports, I referred to the following resources:
@@ -144,8 +139,6 @@ To analyze the pros, cons, and social implications of sports and e-sports, I ref
 - [MoneySmart Athlete: E-sports Social Implications](https://moneysmartathlete.com/special-themes/the-social-implications-of-esports/)  
 
 These sources contribute to the pros-and-cons tables and the Venn diagram comparing the physical and social impacts of sports versus e-sports.
-
----
 
 ### **4. Cost and Earnings**
 Economic accessibility and career opportunities for sports and e-sports participants were analyzed using these data sources:
