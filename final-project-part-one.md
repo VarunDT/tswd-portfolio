@@ -99,25 +99,64 @@ The project provides insights into their growth, audience demographics, lifestyl
 
 ---
 
-## Data
+## Data And its Usage
 
 ### Primary Data Sources
-1. **Sports Data**
-   - Audience demographics, revenue trends, and participation statistics from sources like [Statista](https://www.statista.com), [Nielsen Sports](https://nielsensports.com).
-   - Historical growth data for major leagues like NFL, FIFA, and NBA.
 
-2. **E-sports Data**
-   - Engagement data from platforms such as [Newzoo](https://newzoo.com), [TwitchTracker](https://twitchtracker.com), and YouTube Gaming.
-   - Revenue breakdowns for e-sports tournaments and streaming platforms.
+This project leverages diverse datasets and resources to ensure a thorough exploration of both traditional sports and e-sports. The data sources are categorized based on their relevance to specific sections of the project. 
+---
 
-3. **General Data**
-   - Reports on industry trends from consulting firms like Deloitte and PwC.
+### **1. Introduction and Timeline**
+To frame the historical context of traditional sports and e-sports, the following sources provide insights into their origins, key milestones, and distinguishing features:
+- [The Difference Between E-sports and Traditional Sports](https://spacecoastdaily.com/2024/08/the-difference-between-esports-and-traditional-sports/)  
+- [E-sports Overview on Wikipedia](https://en.wikipedia.org/wiki/Esports)  
+- [History of Sport on Wikipedia](https://en.wikipedia.org/wiki/History_of_sport)  
+- [Key Historical Sports Milestones](https://www.topendsports.com/world/timeline/firsts.htm)  
+- [Oxford Reference: History of Sports Timeline](https://www.oxfordreference.com/display/10.1093/acref/9780191737428.timeline.0001)  
+- [History of E-sports](https://www.cdw.com/content/cdw/en/articles/hardware/history-of-esports.html)  
+- [Sports vs. E-sports Industry Analysis](https://esportsinsider.com/2023/06/esports-vs-sports)  
 
-### Data Usage
-The data will be used to:
-- Compare historical and demographic trends.
-- Analyze costs, impacts, salaries and career opportunities.
-- Support future predictions for both industries.
+---
+
+### **2. Growth Over Time**
+For audience and revenue growth trends, I used the following sources to analyze both industries:
+- [Statista: E-sports Market Overview](https://www.statista.com/topics/3121/esports-market/#topicOverview)  
+- [Global and National Audience Demographics (Statista, Nielsen Sports)](https://www.statista.com)  
+- [Historical Growth of Major Leagues (NFL, FIFA, NBA)](https://www.statista.com/topics/3121/esports-market/#additional-statistics)  
+- [Most Watched Sports Events](https://aboveandbeyond.group/most-watched-sports-events/)  
+- [E-sports Statistics from EsCharts](https://escharts.com/)  
+- [Gallup: Sports Trends](https://news.gallup.com/poll/4735/sports.aspx)  
+- [PlayToday: Sport Viewership Statistics](https://playtoday.co/blog/sport-viewership-statistics/)  
+- [ICCOPR: Global Sports Viewership Report](https://iccopr.com/wp-content/uploads/2019/03/Sports-Around-the-World-report.pdf)  
+- [YouGov: Global E-sports Viewership Trends](https://business.yougov.com/content/46705-charting-the-global-landscape-of-esports-viewership-may-2023)  
+
+These resources helped create visualizations such as the line and bar graphs comparing audience and revenue trends for sports and e-sports and also the heatmap.
+
+---
+
+### **3. Physical and Social Benefits (Pros and Cons)**
+
+To analyze the pros, cons, and social implications of sports and e-sports, I referred to the following resources:
+- [YMCA: Social Benefits of E-sports](https://ymcagbw.org/blog/understanding-social-benefits-esports-teenagers-and-young-adults)  
+- [BrandingMag: Culture and E-sports](https://www.brandingmag.com/2022/01/21/culture-esports-and-the-beauty-of-an-industry-in-its-infancy/)  
+- [Living Skills in Schools: Benefits of Sports Beyond the Field](https://livingskillsintheschools.org/uncategorized/the-benefits-of-sports-beyond-the-field/?gad_source=1&gclid=CjwKCAiArva5BhBiEiwA-oTnXbscndPcCGdTChSgV2h8SbsvJNcI-_NlmdjNEQVlUAmxRtn9qiDBXxoCXSIQAvD_BwE)  
+- [Edutopia: Social and Academic Benefits of Team Sports](https://www.edutopia.org/discussion/social-and-academic-benefits-team-sports)  
+- [MoneySmart Athlete: E-sports Social Implications](https://moneysmartathlete.com/special-themes/the-social-implications-of-esports/)  
+
+These sources contribute to the pros-and-cons tables and the Venn diagram comparing the physical and social impacts of sports versus e-sports.
+
+---
+
+### **4. Cost and Earnings**
+Economic accessibility and career opportunities for sports and e-sports participants were analyzed using these data sources:
+- [GMTM: The True Cost of Being an Athlete](https://gmtm.com/articles/the-true-cost-of-being-an-athlete)  
+- [Ready E-sports: Cost of E-sports Participation](https://readyesports.com/how-expensive-is-it-to-play-esports)  
+- [Leftronic: E-sports Earnings Analysis](https://leftronic.com/blog/esports-earnings)  
+- [Kaggle: E-sports Player Earnings Dataset](https://www.kaggle.com/datasets/jackdaoud/esports-earnings-for-players-teams-by-game/data?select=highest_earning_players.csv)  
+- [Statista: Prize Pools in E-sports](https://www.statista.com/statistics/501853/leading-esports-games-worldwide-total-prize-pool/)  
+- [Yahoo Finance: Annual Salaries in Sports](https://money.yahoo.com/average-annual-player-salaries-across-223631060.html)  
+
+These datasets helped create visualizations such as bar charts comparing costs and revenue for career opportunities.
 
 ---
 
