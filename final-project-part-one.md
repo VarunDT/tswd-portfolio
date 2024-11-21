@@ -81,24 +81,22 @@ The project provides insights into their growth, audience demographics, lifestyl
 
       <img width="1256" alt="Screenshot 2024-11-20 at 7 43 55 PM" src="https://github.com/user-attachments/assets/25cdfd9b-44d8-4122-87f2-0e8ca496d847">
 
-     
-
-6. **Economic Accessibility and Participation**
+6. **Economic Accessibility, Career Oppurtunities and Average Earnings**
    - Stacked bar chart comparing participation costs.
-   - Word cloud illustrating career opportunities for athletes and gamers.  
-
-     <img width="1418" alt="Screenshot 2024-11-20 at 7 44 12 PM" src="https://github.com/user-attachments/assets/28a17b86-cff9-4af8-9dc5-ba74f566c1b5">
+   - Word cloud illustrating career opportunities for athletes and gamers.
+   - Chart visualizing earning potential for athletes and gamers.
 
      <img width="1424" alt="Screenshot 2024-11-20 at 7 44 39 PM" src="https://github.com/user-attachments/assets/23adeb54-6b46-4134-b07f-ba9f8b841ea6">
-
-
-   
+     
+     <img width="1418" alt="Screenshot 2024-11-20 at 7 44 12 PM" src="https://github.com/user-attachments/assets/28a17b86-cff9-4af8-9dc5-ba74f566c1b5">
+     
+     <img width="1328" alt="Screenshot 2024-11-20 at 7 44 56 PM" src="https://github.com/user-attachments/assets/320f288f-640a-4983-8231-039878b35833">
 
 7. **Future Outlook**
    - Conceptual sketch of hybrid sports-e-sports trends.
    - Bubble chart predicting growth in viewership and participation (can overlap with the *Growth Over Time* section).
 
-*See sketches in the uploaded document.*
+     <img width="567" alt="Screenshot 2024-11-20 at 7 45 23 PM" src="https://github.com/user-attachments/assets/79cf1378-8f14-4cb2-89f5-8b9d103690f4">
 
 ---
 
@@ -119,7 +117,7 @@ The project provides insights into their growth, audience demographics, lifestyl
 ### Data Usage
 The data will be used to:
 - Compare historical and demographic trends.
-- Analyze costs, impacts, and career opportunities.
+- Analyze costs, impacts, salaries and career opportunities.
 - Support future predictions for both industries.
 
 ---
@@ -130,8 +128,3 @@ The data will be used to:
 - **Medium**: Standalone webpage on Shorthand, integrating Tableau dashboards for detailed analysis.
 - **Data Preparation**: Python libraries (e.g., pandas, Matplotlib) for cleaning and preprocessing datasets.
 
----
-
-### **Submission Notes**
-- All sketches and data sources are aligned with the outlined project structure.
-- The page will be updated as progress continues.
