@@ -121,7 +121,7 @@ To frame the historical context of traditional sports and e-sports, the followin
 ### **2. Growth Over Time**
 For audience and revenue growth trends, I used the following sources to analyze both industries:
 - [Statista: E-sports Market Overview](https://www.statista.com/topics/3121/esports-market/#topicOverview)  
-- [Global and National Audience Demographics (Statista, Nielsen Sports)](https://www.statista.com)  
+- [Global and National Audience Demographics (Nielsen Sports)](https://nielsensports.com/insights/))  
 - [Historical Growth of Major Leagues (NFL, FIFA, NBA)](https://www.statista.com/topics/3121/esports-market/#additional-statistics)  
 - [Most Watched Sports Events](https://aboveandbeyond.group/most-watched-sports-events/)  
 - [E-sports Statistics from EsCharts](https://escharts.com/)  
