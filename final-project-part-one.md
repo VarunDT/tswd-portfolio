@@ -79,10 +79,20 @@ The project provides insights into their growth, audience demographics, lifestyl
    - Venn diagram showcasing shared and unique social aspects of sports and e-sports.
    - Visual representation of stadium events versus live-streaming platforms.
 
+      <img width="1256" alt="Screenshot 2024-11-20 at 7 43 55 PM" src="https://github.com/user-attachments/assets/25cdfd9b-44d8-4122-87f2-0e8ca496d847">
+
+     
+
 6. **Economic Accessibility and Participation**
    - Stacked bar chart comparing participation costs.
    - Word cloud illustrating career opportunities for athletes and gamers.  
-   [Sources: Participation Costs](https://gmtm.com/articles/the-true-cost-of-being-an-athlete)
+
+     <img width="1418" alt="Screenshot 2024-11-20 at 7 44 12 PM" src="https://github.com/user-attachments/assets/28a17b86-cff9-4af8-9dc5-ba74f566c1b5">
+
+     <img width="1424" alt="Screenshot 2024-11-20 at 7 44 39 PM" src="https://github.com/user-attachments/assets/23adeb54-6b46-4134-b07f-ba9f8b841ea6">
+
+
+   
 
 7. **Future Outlook**
    - Conceptual sketch of hybrid sports-e-sports trends.
