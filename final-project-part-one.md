@@ -6,9 +6,9 @@
 ## High-Level Summary
 
 This project explores the question: **"Sports vs. E-sports – Which one would you rather choose to watch or play?"**  
-This topic resonates deeply with me as it combines two of my favorite activities: playing sports like football, volleyball, and cricket, and enjoying video games. Through this project, I aim to delve into the highs and lows of both traditional sports and e-sports.  
+This topic resonates deeply with me as it combines two of my favorite activities: playing sports (like football, volleyball, and cricket) and enjoying video games. Through this project, I hope to explore the highs and lows of both traditional sports and e-sports.  
 
-The project provides insights into their growth, audience demographics, lifestyle impacts, professional opportunities, and engagement trends. The objective is to present a balanced and comprehensive perspective, helping the audience determine which aligns better with their preferences and priorities. Using compelling data visualizations and actionable takeaways, the project explores audience interest drivers, the entertainment and participation value of both domains, and their potential coexistence or competition in the future.
+The project provides insights into their growth, audience demographics, lifestyle impacts, professional opportunities, and engagement trends. The objective is to present a balanced and comprehensive perspective, helping the audience determine which aligns better with their preferences and priorities. I hope to amke use of compelling data visualizations and actionable takeaways to make thye ausience understand the entertainment and participation value of both domains, and their potential coexistence or competition in the future.
 
 ---
 
@@ -33,12 +33,10 @@ The project provides insights into their growth, audience demographics, lifestyl
 ### 5. **Engagement and Social Connectivity**
 - Examining how both sports and e-sports foster community and shared experiences.
 - Highlighting engagement differences—stadium events for sports versus online platforms for e-sports.  
-  [Sources: Social Implications of Sports and E-sports](https://moneysmartathlete.com/special-themes/the-social-implications-of-esports/)
 
 ### 6. **Economic Accessibility and Career Potential**
 - Comparing participation costs and equipment for sports and e-sports.
 - Examining career opportunities and earning potential for athletes and gamers.  
-  [Sources: Cost Analysis](https://money.yahoo.com/average-annual-player-salaries-across-223631060)
 
 ### 7. **Future Outlook**
 - Speculating on hybridization trends, such as virtual sports leagues and augmented reality competitions.
@@ -55,17 +53,27 @@ The project provides insights into their growth, audience demographics, lifestyl
 1. **Introduction**
    - Infographic with visuals for sports (stadium, ball) and e-sports (gaming controller, screen).
    - Title card: *"Which One Would You Rather Choose to Watch or Play?"*
+     
+     <img width="1395" alt="Screenshot 2024-11-20 at 7 41 13 PM" src="https://github.com/user-attachments/assets/a78bcd0c-50d5-4522-a67d-603678677b1a">
 
 2. **Growth Over Time**
    - Timeline comparing historical milestones for sports and e-sports.
-   - Bar graph showing audience size and line graph for revenue trends.
+   - Bar graph showing audience size and line graph for revenue trends over the last decade.
+  
+     <img width="582" alt="Screenshot 2024-11-20 at 7 41 35 PM" src="https://github.com/user-attachments/assets/c870318c-efe3-4fb3-8360-2d90e9cf5cd4">
+
+     <img width="522" alt="Screenshot 2024-11-20 at 7 43 16 PM" src="https://github.com/user-attachments/assets/91ab57e7-2632-4c8d-a42c-50b6834a51fd">
 
 3. **Audience Demographics**
-   - Bar chart comparing age and gender distribution for sports and e-sports.
+   - Chart comparing age and gender distribution for sports and e-sports.
    - Heatmap showing global popularity of sports versus e-sports.
+
+     <img width="602" alt="Screenshot 2024-11-20 at 7 42 41 PM" src="https://github.com/user-attachments/assets/bbe6eb24-7b4b-4ccf-af0a-111b1f5d2410">
 
 4. **Physical and Mental Impacts**
    - Pros-and-cons table highlighting health and cognitive benefits for both (card-style layout).
+
+     <img width="1438" alt="Screenshot 2024-11-20 at 7 43 32 PM" src="https://github.com/user-attachments/assets/7bcdf5c8-2a1d-4f0f-a68b-2af19b815650">
 
 5. **Engagement and Social Connectivity**
    - Venn diagram showcasing shared and unique social aspects of sports and e-sports.
