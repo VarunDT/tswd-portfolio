@@ -53,6 +53,98 @@ The story on Shorthand is a rough demo of what the final project will look like.
 
 # Data Visualizations
 
+### E-sports Timeline  
+The timeline can be found on the Shorthand link on Page 2. I have highlighted the following years in the timeline as major milestones for the industry:
+1972: The First Video Game Competition
+1980: Atari’s Space Invaders Championship
+1997: The First Modern E-sports Tournament
+Early 2000s: Broadband and Growth in tthe Industry
+Early 2010s: Streaming and Global Reach
+Last 5 Years (2019–2024): Mainstream Recognition
+I am currently having problems in editing the photos in the timeline, but it will be resolved by the end of the week
+
+### Growth Over Time (Revenue and Audience)  
+**Revenue Growth**: To be highlighted on Pg.3 of Shorthand. Shows present and predicted future growth in the industry.
+
+<div class="tableauPlaceholder" id="viz1732760865574" style="position: relative">
+    <noscript>
+        <a href="#">
+            <img alt="CURRENT AND PREDICTED GROWTH OF THE E-SPORTS MARKET OVER THE YEARS" 
+                 src="https://public.tableau.com/static/images/YO/YOYGROWTH/Sheet1/1_rss.png" 
+                 style="border: none" />
+        </a>
+    </noscript>
+    <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="YOYGROWTH/Sheet1" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" 
+               value="https://public.tableau.com/static/images/YO/YOYGROWTH/Sheet1/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-GB" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById('viz1732760865574');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+**Audience Growth**: To be highlighted on Pg.4 of Shorthand. Shows present and predicted future growth of people viewing and playing E-sports. 
+
+
+Data Source: **Statista**
+On shorthand, I am going to use the scrollpoint feature and also add a simultaneous line graph that will progress slowly showing the rise, as shown in one of the sample examples.
+
+<div class="tableauPlaceholder" id="viz1732761961179" style="position: relative">
+    <noscript>
+        <a href="#">
+            <img alt="GROWTH IN ESPORTS AUDIENCE" 
+                 src="https://public.tableau.com/static/images/au/audiencegrowth/Sheet1/1_rss.png" 
+                 style="border: none" />
+        </a>
+    </noscript>
+    <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="audiencegrowth/Sheet1" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" 
+               value="https://public.tableau.com/static/images/au/audiencegrowth/Sheet1/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-GB" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById('viz1732761961179');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+
 ---
 
 
