@@ -2,10 +2,10 @@
 
 # Final project Part II: Wireframes / Storyboards and User Research
 # New High Level Summary 
-Last week, I received feedback that my original topic, comparing sports and e-sports, was too broad and unclear. In response, I narrowed my focus to exclusively cover e-sports. The new topic explores whether e-sports can rival traditional sports by analyzing its growth, audience, accessibility, impacts, and future potential. It traces e-sports’ rise from niche competitions to a billion-dollar industry and highlights key aspects to engage readers and spark interest in playing or watching. The conclusion suggests that e-sports is a strong competitor in the sports industry, and that both traditional and digital sports have unique strengths and can coexist. The new High-level summary of the project is as follows:
+Last week, I received feedback that my original topic, comparing sports and e-sports, was too broad and unclear. In response, I narrowed my focus to exclusively cover e-sports. The new topic explores whether e-sports can rival traditional sports by analyzing its growth, audience, accessibility, impacts, and future potential. It traces e-sports’ rise from niche competitions to a billion-dollar industry and highlights key aspects to engage readers and spark interest in playing or watching. The conclusion suggests that e-sports is a strong competitor in the  industry, and that both traditional and digital sports have unique strengths and can coexist. The new High-level summary of the project is as follows:
 
 ### Introduction   
-- Explore the central question: Is it a "Fad or Fact" Can e-sports rival traditional sports?  
+- Explore the central question: Can e-sports rival traditional sports?  
 - Highlight the project’s goal to analyze e-sports’ growth, appeal, and cultural impact.  
 ---
 
@@ -17,7 +17,7 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 
 ### Growth Over Time (Revenue and Audience)  
 - Present data and future predictions on the explosive revenue growth of e-sports, including sponsorships, advertising, and event earnings.  
-- Analyze audience size and engagement trends, focusing on global viewership and participation. Try to draw comparisions to the sports industry.
+- Analyze audience size and engagement trends, focusing on global viewership and participation. (Can try to draw comparisions to the sports industry.)
 ---
 
 ### Audience Demographics  
@@ -102,7 +102,7 @@ I am currently having problems in editing the photos in the timeline, but it wil
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-**Relevance of vizualization**: To show growth rate in the E-sports industry and to show that it is a trend that will stay relevant in the coming few years. Also shows a high-constant rise unlike the traditional sports industry which has reached its saturation.
+**Relevance of vizualization**: To show growth rate in the E-sports industry and to show that it is a trend that will stay relevant in the coming few years. 
 
 **Audience Growth**: To be highlighted on Pg.4 of Shorthand. Shows present and predicted future growth of people viewing and playing E-sports. 
 
@@ -279,7 +279,7 @@ Data Source: **E-charts & E-SportsEarnings**
 </script>
 Data Source: **Statista**
 
-**Relevance of these 2 vizualization**: To show the kind of money that people are already making from E-sports and the vast number of professional players each game already attracts. The second visualization shows that E-sports viewership has already crossed the 5 million benchmark in recent years and hence E-sports streams can easily be monitized and can serve as a source of boosted income and revenue for players and streamers. 
+**Relevance of these 2 vizualization**: To show the kind of money that people are already making from E-sports and the vast number of professional players each game already attracts. The second visualization shows that E-sports viewership has already crossed the 5 million benchmark in recent years and hence E-sports streams can easily be monitized and can serve as a source of boosted income and revenue for players and streamers. (Can move viewership in the Groth section based on User feedback, I personally feel it is better in this section).
 
 ### Future Scope/Conclusion  
 Small paragraph explaining the final argument and photos of AI trends and AR/VR development that can actually help in merging the 2 industries of traditional and digital sports.
