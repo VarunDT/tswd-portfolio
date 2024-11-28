@@ -187,8 +187,7 @@ Data Source: **YouGov**
 <img width="949" alt="Screenshot 2024-11-27 at 7 04 50 PM" src="https://github.com/user-attachments/assets/36a6d99b-ed44-409d-b9ef-e01969f10249">
 
 ### Cost and Ease of Playing  
-Tabular/Paragraph comparision of the costs for Traditional and E-sports (E-sports costs almost 3 times less than traditional sports). Small paragraph on how esports become popular during pre-covid and covid times due to ease of access and how even the disabled can easily participate. I was planning on doing something like what i had done in Part 1 (as shown below), but it unnecesarily increases the number of charts and also the professor questioned the authenticity of the data in his previous evaluation, hence the idea has been scraped.
-![image](https://github.com/user-attachments/assets/ff5d0ea9-5c68-413b-a66c-89bc907acf42)
+Tabular/Paragraph comparision of the costs for Traditional and E-sports (E-sports costs almost 3 times less than traditional sports). Small paragraph on how esports become popular during pre-covid and covid times due to ease of access and how even the disabled can easily participate. I was planning on doing something like what i had done in Part 1, but it unnecesarily increases the number of charts and also the professor questioned the authenticity of the data in his previous evaluation, hence the idea has been scraped.
 (This area has too much potential, but not enough data is available online. Can ask the users for other ways in which this section can be portrayed)
 
 I also gave Chatgpt a few articles off the internet and asked it to give me data points and a few visualizations and this is what it turned up with:
