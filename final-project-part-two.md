@@ -7,43 +7,35 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 ### Introduction   
 - Explore the central question: Can e-sports rival traditional sports?  
 - Highlight the project’s goal to analyze e-sports’ growth, appeal, and cultural impact.  
----
 
 ### E-sports Timeline  
 - Trace the evolution of e-sports from niche competitions to a mainstream global industry.  
 - Highlight major milestones, such as the rise of professional leagues, live-streaming platforms, and billion-dollar tournaments.  
 - Showcase the key events that shaped e-sports’ rapid growth.  
----
 
 ### Growth Over Time (Revenue and Audience)  
 - Present data and future predictions on the explosive revenue growth of e-sports, including sponsorships, advertising, and event earnings.  
 - Analyze audience size and engagement trends, focusing on global viewership and participation. (Can try to draw comparisions to the sports industry.)
----
 
 ### Audience Demographics  
 - Examine who engages with e-sports, with breakdowns by age, gender, and geography.  
----
 
 ### Physical and Mental Impacts Compared to Sports  
 - Compare the physical benefits of traditional sports with the cognitive and strategic advantages of e-sports.  
 - Discuss challenges like injuries in sports versus screen fatigue and mental health issues in e-sports.  
----
 
 ### Cost and Ease of Playing  
 - Compare the costs of participating in e-sports (equipment, internet) versus traditional sports (gear, coaching, infrastructure).  
 - Highlight e-sports’ greater global accessibility due to lower barriers to entry.  
----
 
 ### Earning Potential  
 - Examine earning opportunities in e-sports, such as tournaments, sponsorships, and streaming.
 - Includes prize money and viewership data. 
----
 
 ### Future Scope/Conclusion  
 - Speculate on future trends like VR/AR blending e-sports and traditional sports.  
 - Highlight the potential for hybridization and complementary growth between the two.  
 - Conclude that both domains offer unique strengths and can coexist, appealing to different preferences and cultural contexts.
----
 
 # Wireframes / Storyboards
 **Link to Shorthand**
