@@ -191,6 +191,11 @@ Tabular/Paragraph comparision of the costs for Traditional and E-sports (E-sport
 ![image](https://github.com/user-attachments/assets/ff5d0ea9-5c68-413b-a66c-89bc907acf42)
 (This area has too much potential, but not enough data is available online. Can ask the users for other ways in which this section can be portrayed)
 
+I also gave Chatgpt a few articles off the internet and asked it to give me data points and a few visualizations and this is what it turned up with:
+<img width="1002" alt="Screenshot 2024-11-28 at 12 56 07 AM" src="https://github.com/user-attachments/assets/2a150bc4-9b5d-40dd-9f34-46ac03adfb6c">
+![output (2)](https://github.com/user-attachments/assets/d0f4db86-efcd-408a-b671-584bfa2c6faf)
+![output (3)](https://github.com/user-attachments/assets/cb771811-98a4-4b27-b6a0-cee2b4d8c50b)
+
 **Relevance of the past 2 sections**: These 2 sections show how esports helps people and how overdoing it can also cause certain harms(but pros out-weigh the cons and hence one can make an argument of making it an everyday activity). It also reflects how easily esports can become a profession or a household trend unlike traditional sports which requires significant training and equipment cost.
 
 ### Earning Potential  
