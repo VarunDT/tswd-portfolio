@@ -336,15 +336,13 @@ I asked all four of the people I interviewed the following questions:
 
 | **Research Synthesis**                    | **Anticipated Changes for Part III**                                             |
 |-------------------------------------------|----------------------------------------------------------------------------------|
-| Timeline is engaging but feels slightly over-detailed and burndened. | Simplify the timeline either by highlighting fewer but more impactful milestones or adding shorter captions to provide concise context for each milestone. |
-| Cost comparison section felt slightly disorganized. | Reorganize the cost comparison section to clearly highlight initial costs, recurring costs, and total costs in a side-by-side visual or make the table more appealing. Using bar charts or any other sort of infographic for better readability would be a good idea. |
-| Data visualizations are clear but lack interactivity or contrast. | Introduce contrasting colors and explore adding interactive elements where possible. Also try to redo the demographic and player graph. |
-| Narrative lacks personal or relatable examples. | Incorporate short case studies or quotes from prominent e-sports players, teams, or fans to make the story more engaging and relatable. |
+| Timeline is engaging but feels slightly over-detailed and burdened with information. | Simplifying the timeline either by highlighting fewer but more impactful milestones or adding shorter captions to provide concise context for each milestone. |
+| Cost comparison section felt slightly disorganized. | Reorganizing the cost comparison section to clearly highlight initial costs, recurring costs, and total costs in a side-by-side visual or make the table more appealing. Using bar charts or any other sort of infographic as thought in the 1st part of the project for better readability would be a good idea. |
+| Data visualizations are clear but lack interactivity or contrast. | Introducing contrasting colors and exploring adding interactive elements where possible (incorporating the scroll feature which I meantioned before could also add attraction for any viewer and keep them engaged). Also try to redo the demographic and player graph. |
+| Narrative lacks personal or relatable examples. | Incorporate short case studies or quotes from prominent e-sports players, teams, or fans to make the story more engaging and relatable. (Feels extra, only do if time permits) |
 | Call to action and/or title could better | Refine the call to action to encourage readers to actively participate in e-sports, emphasizing its inclusivity and minimal entry barriers and make the story more centrally aligned to the title. |
-| Layout could benefit from more spacing and better organization. | Add space between sections to improve readability. Introduce visual breaks such as icons or horizontal dividers for smoother transitions. |
+| Layout could benefit from more spacing and better organization. | Add space between sections to improve readability. Introduce visual breaks such as icons or horizontal dividers for smoother transitions. Also adding prominent headers and nav sections on shorthand could do the trick. |
 
 ### Final Thoughts
 
-The feedback from the interviews provided valuable insights into the strengths and weaknesses of the current narrative. While the story is engaging and well-structured, some sections can benefit from simplification and better organization. Adding personal stories and addressing similar considerations from the feedback will make the narrative more relatable and balanced. By refining the design and layout, as well as enhancing the call to action, I aim to create a polished, engaging, and impactful final story.
-
-
+The feedback from the interviews provided valuable insights into the strengths and weaknesses of the current narrative. While the story is engaging and well-structured, some sections can benefit from simplification, less overbearing visualizations and better organization. Adding personal stories and addressing similar considerations from the feedback will make the narrative more relatable and balanced, but feels like extra work. Finally, by refining the design and layout, as well as enhancing the call to action, I hope to create a polished, engaging, and impactful final story.
