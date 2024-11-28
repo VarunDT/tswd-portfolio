@@ -1,6 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Final project Part II: Wireframes / Storyboards and User Research
+# New High Level Summary 
 Last week, I received feedback that my original topic, comparing sports and e-sports, was too broad and unclear. In response, I narrowed my focus to exclusively cover e-sports. The new topic explores whether e-sports can rival traditional sports by analyzing its growth, audience, accessibility, impacts, and future potential. It traces e-sports’ rise from niche competitions to a billion-dollar industry and highlights key aspects to engage readers and spark interest in playing or watching. The conclusion suggests that while e-sports is a strong competitor, both domains have unique strengths and can coexist, inviting reflection on their appeal and cultural impact. The new High-level summary of the project is as follows:
 
 ### Introduction   
@@ -41,7 +42,19 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 ### Future Scope/Conclusion  
 - Speculate on future trends like VR/AR blending e-sports and traditional sports.  
 - Highlight the potential for hybridization and complementary growth between the two.  
-- Conclude that both domains offer unique strengths and can coexist, appealing to different preferences and cultural contexts.  
+- Conclude that both domains offer unique strengths and can coexist, appealing to different preferences and cultural contexts.
+---
+
+# Wireframes / Storyboards
+**Link to Shorthand**
+The story on Shorthand is a rough demo of what the final project will look like. It is currently incomplete but will be finished before the final presentation next week.
+
+---
+
+# Data Visualizations
+
+---
+
 
 # User research 
 
