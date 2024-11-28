@@ -140,7 +140,9 @@ I am currently having problems in editing the photos in the timeline, but it wil
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 Data Source for both the graphs is: **Statista**
+
 On shorthand, I am going to use the scrollpoint feature athat will progress slowly showing the rise in each of the graphs, as shown in one of the sample examples.
 
 ---
