@@ -290,23 +290,26 @@ Small paragraph explaining the final argument and photos of AI trends and AR/VR 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+I have identified my target audience as individuals in their early 20s, as this age group aligns with the current demographic of e-sports fans and viewers. E-sports is a relatively new trend that resonates strongly with younger, tech-savvy audiences and hence they will be able to understand all the key concepts and the entire background of what my story is trying to tell. To gather relevant feedback, I have selected two of my roommates and two college friends to interview, focusing on what works well in the story and what can be improved.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+I asked all four of the people I interviewed the following questions:
 
-Text here!
+| **Goal**                                   | **Questions to Ask**                                                                                                   |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Understand how engaging the story is       | - Does the story capture your interest from the beginning?                                                             |
+|                                            | - Which sections of the story do you find most engaging?                                                              |
+|                                            | - Are there any parts where the story feels unclear or too detailed?                                                  |
+| Assess the clarity of data visualizations  | - Are the data visualizations easy to understand?                                                                      |
+|                                            | - Do they effectively support the narrative of the story?                                                              |
+|                                            | - Are there any suggestions you have for improving the charts or visuals?                                              |
+| Evaluate the relevance of the information  | - Do you feel the content is relevant and meaningful to e-sports fans and viewers?                                      |
+|                                            | - Does the story address important aspects of e-sports (growth, audience, accessibility, impacts, future trends)?      |
+|                                            | - Is there anything you think is missing from the narrative?                                                           |
+| Gather feedback on overall presentation    | - How well do the visuals and text work together to tell the story?                                                    |
+|                                            | - Do you find the flow of the story logical and easy to follow?                                                        |
+|                                            | - Do you have any suggestions for improving the design or layout of the story?                                         |
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
