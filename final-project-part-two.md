@@ -299,16 +299,17 @@ I asked all four of the people I interviewed the following questions:
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Understand how engaging the story is       | - Does the story capture your interest from the beginning?                                                             |
 |                                            | - Which sections of the story do you find most engaging?                                                              |
-|                                            | - Are there any parts where the story feels unclear or too detailed?                                                  |
+| Assess the clarity of the title            | - What do you understand by the title of this project?                                                                 |
+|                                            | - Can you guess the story from the title, or does it leave you with various possibilities for this story?     |
 | Assess the clarity of data visualizations  | - Are the data visualizations easy to understand?                                                                      |
 |                                            | - Do they effectively support the narrative of the story?                                                              |
-|                                            | - Are there any suggestions you have for improving the charts or visuals?                                              |
-| Evaluate the relevance of the information  | - Do you feel the content is relevant and meaningful to e-sports fans and viewers?                                      |
+| Evaluate the relevance of the information  | - Do you feel the content is relevant and meaningful?                                      |
 |                                            | - Does the story address important aspects of e-sports (growth, audience, accessibility, impacts, future trends)?      |
 |                                            | - Is there anything you think is missing from the narrative?                                                           |
-| Gather feedback on overall presentation    | - How well do the visuals and text work together to tell the story?                                                    |
+| Gather feedback on overall structure and presentation    | - How well do the visuals and text work together to tell the story?                                                    |
 |                                            | - Do you find the flow of the story logical and easy to follow?                                                        |
-|                                            | - Do you have any suggestions for improving the design or layout of the story?                                         |
+|                                            | - Do you have any suggestions for improving the context, design or layout of the story?                                         |
+| Final call to action                       | - What should the call to action be in the end, according to you?                                                      |
 
 
 ## Interview findings
