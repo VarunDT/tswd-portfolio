@@ -278,7 +278,7 @@ Data Source: **E-charts & E-SportsEarnings**
 </script>
 Data Source: **Statista**
 
-**Relevance of these 2 vizualization**: To show the kind of money that people are already making from E-sports and the vast number of professional players each game already attracts. The second visualization shows that E-sports viewership has already crossed the 5 million benchmark in recent years and hence E-sports streams can easily be monitized and can serve as a source of boosted income and revenue for players and streamers. (Can move viewership in the Groth section based on User feedback, I personally feel it is better in this section).
+**Relevance of these 2 vizualizations**: To show the kind of money that people are already making from E-sports and the vast number of professional players each game already attracts. The second visualization shows that E-sports viewership has already crossed the 5 million benchmark in recent years and hence E-sports streams can easily be monitized and can serve as a source of boosted income and revenue for players and streamers. (Can move viewership in the Groth section based on User feedback, I personally feel it is better in this section).
 
 ### Future Scope/Conclusion  
 Small paragraph explaining the final argument and photos of AI trends and AR/VR development that can actually help in merging the 2 industries of traditional and digital sports.
