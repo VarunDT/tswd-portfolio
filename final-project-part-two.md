@@ -312,8 +312,6 @@ I asked all four of the people I interviewed the following questions:
 
 
 ## Interview findings
-```markdown
-### Findings From Interviews
 
 | **Questions**                          | **Interview 1 (23 M)**                                                                                                                                       | **Interview 2 (24M)**                                                                                                      | **Interview 3(25 M)**                                                                                                   | **Interview 4(23F)**                                                                                                     |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -330,7 +328,6 @@ I asked all four of the people I interviewed the following questions:
 | **Is the flow logical?**               | Flows logically with seamless transitions.                                                                                                                              | Smooth transitions make it easy to follow.                                                                          | Logical flow but slightly repetitive in parts.                                                                     | Clear and well-structured flow.                                                                                     |
 | **Suggestions for design or layout**   | Add white space and small graphics for better readability.                                                                                                              | Keep it simple and include real-life stories for personal connection.                                                | Reorganize the cost section and clarify graphs.                                                                    | Use contrasting colors and introduce interactive elements to improve engagement.                                    |
 | **What should the call to action be?** | Encourage readers to explore e-sports as players, viewers, or innovators.                                                                                               | Invite people to join the e-sports community and follow trends.                                                      | Uncertain, but it should inspire engagement in e-sports.                                                           | Promote inclusivity (by talking about how entry barriers are minimal) and encourage active participation in the e-sports community. |
-```
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
