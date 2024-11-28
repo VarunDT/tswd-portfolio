@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Final project Part II: Wireframes / Storyboards and User Research
 Last week, I received feedback that my original topic, comparing sports and e-sports, was too broad and unclear. In response, I narrowed my focus to exclusively cover e-sports. The new topic explores whether e-sports can rival traditional sports by analyzing its growth, audience, accessibility, impacts, and future potential. It traces e-sports’ rise from niche competitions to a billion-dollar industry and highlights key aspects to engage readers and spark interest in playing or watching. The conclusion suggests that while e-sports is a strong competitor, both domains have unique strengths and can coexist, inviting reflection on their appeal and cultural impact. The new High-level summary of the project is as follows:
 
 ### Introduction   
