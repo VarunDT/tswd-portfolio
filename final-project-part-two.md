@@ -22,7 +22,7 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 
 ### Audience Demographics  
 - Examine who engages with e-sports, with breakdowns by age, gender, and geography.  
-- Highlight the appeal of e-sports among younger, tech-savvy audiences.  
+- Highlight the appeal of e-sports among younger, tech-savvy audiences.
 ---
 
 ### Physical and Mental Impacts Compared to Sports  
@@ -36,7 +36,8 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 ---
 
 ### Earning Potential  
-- Examine earning opportunities in e-sports, such as tournaments, sponsorships, and streaming.  
+- Examine earning opportunities in e-sports, such as tournaments, sponsorships, and streaming.
+- Includes prize money and viwership data. 
 ---
 
 ### Future Scope/Conclusion  
@@ -144,6 +145,52 @@ I am currently having problems in editing the photos in the timeline, but it wil
 Data Source for both the graphs: **Statista**
 
 On shorthand, I am going to use the scrollpoint feature athat will progress slowly showing the rise in each of the graphs, as shown in one of the sample examples.
+
+### Audience and Player Demographics  
+Data for age and gender can be fit in one line and just formatted (Currently as text on shorthand, can play around with color and text size). Data for geography is presented below: 
+<div class="tableauPlaceholder" id="viz1732764262542" style="position: relative">
+    <noscript>
+        <a href="#">
+            <img alt="TOP 30 COUNTRIES HAVING THE MOST E-SPORTS FOLLOWERS
+                  NOTE: The viewership percentage is roughly calculated as the number of E-sports followers divided by the total population." 
+                 src="https://public.tableau.com/static/images/Au/AudeienceDemographics/Sheet1/1_rss.png" 
+                 style="border: none" />
+        </a>
+    </noscript>
+    <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="AudeienceDemographics/Sheet1" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" 
+               value="https://public.tableau.com/static/images/Au/AudeienceDemographics/Sheet1/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-GB" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+<script type="text/javascript">
+    var divElement = document.getElementById('viz1732764262542');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+Data Source: **YouGov**
+
+### Physical and Mental Impacts Compared to Sports  
+<img width="949" alt="Screenshot 2024-11-27 at 7 04 50 PM" src="https://github.com/user-attachments/assets/36a6d99b-ed44-409d-b9ef-e01969f10249">
+
+
 
 ---
 
