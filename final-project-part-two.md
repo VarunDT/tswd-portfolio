@@ -38,7 +38,7 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 - Conclude that both domains offer unique strengths and can coexist, appealing to different preferences and cultural contexts.
 
 # Wireframes / Storyboards
-**Link to Shorthand**
+**[Link to Shorthand](https://preview.shorthand.com/y4HrLkygOltyBzRn)**
 The story on Shorthand is a rough demo of what the final project will look like. It is currently incomplete but will be finished before the final presentation next week.
 
 ---
