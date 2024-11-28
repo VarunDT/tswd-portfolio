@@ -30,7 +30,7 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 - Discuss challenges like injuries in sports versus screen fatigue and mental health issues in e-sports.  
 ---
 
-### Cost of Playing  
+### Cost and Ease of Playing  
 - Compare the costs of participating in e-sports (equipment, internet) versus traditional sports (gear, coaching, infrastructure).  
 - Highlight e-sports’ greater global accessibility due to lower barriers to entry.  
 ---
@@ -52,7 +52,7 @@ The story on Shorthand is a rough demo of what the final project will look like.
 
 ---
 
-# Data Visualizations
+# Data Visualizations and Explanations of each section
 
 ### E-sports Timeline  
 The timeline can be found on the Shorthand link on Page 2. I have highlighted the following years in the timeline as major milestones for the industry:
@@ -190,6 +190,8 @@ Data Source: **YouGov**
 ### Physical and Mental Impacts Compared to Sports  
 <img width="949" alt="Screenshot 2024-11-27 at 7 04 50 PM" src="https://github.com/user-attachments/assets/36a6d99b-ed44-409d-b9ef-e01969f10249">
 
+### Cost of Playing  
+Tabular comparision of the costs for Traditional and E-sports (E-sports costs almost 3 times less than traditional sports). Small paragraph on how esports become popular during pre-covid and covid times due to ease of access and how even the disabled can easily participate. I was planning on doing something like this:(as done in the previous summary)
 
 
 ---
