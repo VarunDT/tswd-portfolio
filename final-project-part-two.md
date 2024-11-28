@@ -313,7 +313,7 @@ I asked all four of the people I interviewed the following questions:
 
 ## Interview findings
 
-| **Questions**                          | **Interview 1 (23 M)**                                                                                                                                       | **Interview 2 (24M)**                                                                                                      | **Interview 3(25 M)**                                                                                                   | **Interview 4(23F)**                                                                                                     |
+| **Questions**                          | **Interviewee 1**                                                                                                                                       | **Interviewee 2**                                                                                                      | **Interviewee 3**                                                                                                   | **Interviewee 4**                                                                                                     |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Does the story capture your interest?** | Engaging from the start, with a compelling question asked in the beginning and structured analysis provided later.                                                        | Grabs attention with a clear structure, but the timeline feels a bit too detailed and overbearing, though it was cool to look at. | Yes, the story is engaging, though the cost section felt slightly dry and over the top.                            | Yes, the central question and structured flow are engaging.                                                         |
 | **Which sections are most engaging?**  | Growth Over Time and Earning Potential sections.                                                                                                                        | Timeline and future trends (like VR integration). Can't wait to see where you go with that.                          | Comparison between e-sports and traditional sports players and Growth Over Time.                                   | Audience demographics, Growth Over Time, and Global Accessibility stand out.                                       |
@@ -329,21 +329,22 @@ I asked all four of the people I interviewed the following questions:
 | **Suggestions for design or layout**   | Add white space and small graphics for better readability.                                                                                                              | Keep it simple and include real-life stories for personal connection.                                                | Reorganize the cost section and clarify graphs.                                                                    | Use contrasting colors and introduce interactive elements to improve engagement.                                    |
 | **What should the call to action be?** | Encourage readers to explore e-sports as players, viewers, or innovators.                                                                                               | Invite people to join the e-sports community and follow trends.                                                      | Uncertain, but it should inspire engagement in e-sports.                                                           | Promote inclusivity (by talking about how entry barriers are minimal) and encourage active participation in the e-sports community. |
 
+**NOTE**: Used ChatGPT to summarize Zoom meeting summaries, notes taken during the interviews, and texts containing answers to certain questions sent by the interviewees on WhatsApp after the interviews and put them in a structured and shortened format.
+
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+### Documenting Changes for Next Week
 
-Text here!
+| **Research Synthesis**                    | **Anticipated Changes for Part III**                                             |
+|-------------------------------------------|----------------------------------------------------------------------------------|
+| Timeline is engaging but feels slightly over-detailed and burndened. | Simplify the timeline either by highlighting fewer but more impactful milestones or adding shorter captions to provide concise context for each milestone. |
+| Cost comparison section felt slightly disorganized. | Reorganize the cost comparison section to clearly highlight initial costs, recurring costs, and total costs in a side-by-side visual or make the table more appealing. Using bar charts or any other sort of infographic for better readability would be a good idea. |
+| Data visualizations are clear but lack interactivity or contrast. | Introduce contrasting colors and explore adding interactive elements where possible. |
+| Narrative lacks personal or relatable examples. | Incorporate short case studies or quotes from prominent e-sports players, teams, or fans to make the story more engaging and relatable. |
+| Call to action and/or title could better | Refine the call to action to encourage readers to actively participate in e-sports, emphasizing its inclusivity and minimal entry barriers and make the story more centrally aligned to the title. |
+| Layout could benefit from more spacing and better organization. | Add space between sections to improve readability. Introduce visual breaks such as icons or horizontal dividers for smoother transitions. |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+### Final Thoughts
 
-> ...include any final thoughts you have here. 
-
-Text here!
+The feedback from the interviews provided valuable insights into the strengths and weaknesses of the current narrative. While the story is engaging and well-structured, some sections can benefit from simplification and better organization. Adding personal stories and addressing similar considerations from the feedback will make the narrative more relatable and balanced. By refining the design and layout, as well as enhancing the call to action, I aim to create a polished, engaging, and impactful final story.
 
 
