@@ -2,7 +2,7 @@
 
 # Visualising Government Debt
 
-This assignment covers three different ways to visualize the same data and steps on how to recreate the data visualization. In the end, there is also an explanation on why a particular visualisation works best in explaining the particular part of the data.
+This assignment covers three different ways to visualize the same data and steps on how to recreate the data visualization. In the end, there is also an explanation on why a particular visualization works best in explaining the particular part of the data.
 
 ## Part One: Working with web-based visualization tools and data
 
@@ -78,7 +78,7 @@ To create a box and whisker plot in Tableau based on your previous sheet:
 2. **Select Box and Whisker Plot**: In the "Show Me" panel on the right, choose "Box and Whisker Plot."
 3. **Relabel the Axes**: Double-click on each axis title to rename them appropriately (e.g., "Year" for the x-axis and "Debt-to-GDP Ratio" for the y-axis).
 4. **Customize Box Appearance**:
-   - Click on the box plot, and then click on "Edit"  toselect the style, color and adjust the opacity slider to set the transparency level for the box.
+   - Click on the box plot, and then click on "Edit"  to select the style, color and adjust the opacity slider to set the transparency level for the box.
    - Customize the borders and box thickness as needed.
 5. **Format Location Points**:
    - Click on the individual data points (location points) within the Marks card.
@@ -125,7 +125,7 @@ This will create a customized box and whisker plot that allows for easy visual c
 
 This section summarizes different visualization methods used to analyze the OECD's "General Government Debt" data. We created three visualizations—a bar chart(sourced from the website), a heatmap (professor’s choice), and a box plot (personal choice). Each plot offers insights into how countries' debt-to-GDP ratios have evolved from 1995 to recent years.
 
-The bar chart on the OECD website includes a complementary slider to adjust the year, allowing a focused view of each year and a magnified view of each country's data for that particular year. While this is useful for examining individual years, but combining all bar charts over time would make it difficult to extract meaningful trends. The heatmap effectively highlights high and low debt levels across countries and years, with color shades making it easy to spot trends. We can set any averag value we want and see how the data revolves around that average value. This approach allows for quick, comparative analysis not only for data of a particular location for different years, but also across multiple locations at the glance-of-an-eye. This approach is better than the first one as it occupies lesser space and the viewer's task is limited, but it lacks details on overall data spread and outliers. The box plot addresses this limitation by showing the distribution of the data for each year, including median values, ranges, and outliers. It provides a clearer picture of typical range of debt values while revealing variations for the given countries over time. This chart also helps identify highlight any extreme cases or high variance between countries. I personally chose the box plot, because the first 2 plots were very focused on particular locations, but the box plot gives a more overall idea of how the debt fluctuates over the years and also how much the average debt of all countries shifts as the years progress.
+The bar chart on the OECD website includes a complementary slider to adjust the year, allowing a focused view of each year and a magnified view of each country's data for that particular year. While this is useful for examining individual years, but combining all bar charts over time would make it difficult to extract meaningful trends. The heatmap effectively highlights high and low debt levels across countries and years, with color shades making it easy to spot trends. We can set any average value we want and see how the data revolves around that average value. This approach allows for quick, comparative analysis not only for data of a particular location for different years, but also across multiple locations at the glance-of-an-eye. This approach is better than the first one as it occupies lesser space and the viewer's task is limited, but it lacks details on overall data spread and outliers. The box plot addresses this limitation by showing the distribution of the data for each year, including median values, ranges, and outliers. It provides a clearer picture of typical range of debt values while revealing variations for the given countries over time. This chart also helps identify highlight any extreme cases or high variance between countries. I personally chose the box plot, because the first 2 plots were very focused on particular locations, but the box plot gives a more overall idea of how the debt fluctuates over the years and also how much the average debt of all countries shifts as the years progress.
 
 
 
