@@ -41,7 +41,7 @@ Since the completion of Part II, I have made several enhancements to refine the 
 - **Call to Action**:  
   The call to action was made more actionable and specific, encouraging readers to participate as players or viewers. It highlights esports’ low entry barriers and its unique opportunities for personal growth, entertainment, and financial success. Clear steps were outlined on how to get involved in the industry.  
 
-## The Audience 
+# The Audience 
 For my final data story, I targeted tech-savvy individuals in their late teens to early 20s, a demographic that makes up over 70% of esports players and viewers, according to a Boston Consulting Group (BCG) article. This insight helped shape the project’s content and design, emphasizing visually dynamic elements like Tableau graphs, infographics, and scrolling animations. The modern black-themed design, white clear and bold text, and interactive visuals were chosen to resonate with younger audiences accustomed to digital media. Additionally, the call-to-action section was tailored to encourage participation through gaming, streaming, and content creation—activities highly relevant to this age group.
 
 # Primary Data Sources/ References
@@ -94,8 +94,9 @@ To explore the future potential of e-sports, these resources provided insights i
 
 These sources helped outline how innovations like virtual and augmented reality, and emerging technologies, will shape the next phase of e-sports.  
 
+# Final Reflections
+Working on this project has been an incredibly rewarding experience. I thoroughly enjoyed the entire process, from initial research and data gathering to refining and presenting the final product. This journey taught me the value of breaking down complex ideas into manageable steps and continuously improving them through iteration and feedback.
 
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+I learned how important it is to balance creativity with data-driven storytelling, ensuring each section built logically toward a cohesive narrative. The process also deepened my understanding of how to craft compelling visualizations and meaningful context around them.
 
-Text here!
+While I’m satisfied with the final result, I wish I had more time to explore additional interactive elements and advanced visualization techniques. Still, seeing how much the project evolved from its initial concept to a fully developed story has been incredibly exciting and motivating.
