@@ -3,7 +3,7 @@
 # The Rise of Esports: Final Project- Part III
 
 # Final Data Story 
-[The Rise of Esports: Shorthand](https://preview.shorthand.com/y4HrLkygOltyBzRn)
+## [The Rise of Esports: Shorthand](https://preview.shorthand.com/y4HrLkygOltyBzRn)
 
 # Final Changes made since Part II 
 Since the completion of Part II, I have made several enhancements to refine the narrative, improve the design, and strengthen the overall user experience of my project. These updates focused on clarity, aesthetics, and content presentation based on feedback received during the earlier phases. Here’s a breakdown of the final changes and key design decisions:
