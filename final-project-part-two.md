@@ -347,3 +347,4 @@ I asked all four of the people I interviewed the following questions:
 ### Final Thoughts
 
 The feedback from the interviews provided valuable insights into the strengths and weaknesses of the current narrative. While the story is engaging and well-structured, some sections can benefit from simplification, less overbearing visualizations and better organization. Adding personal stories and addressing similar considerations from the feedback will make the narrative more relatable and balanced, but feels like extra work. Finally, by refining the design and layout, as well as enhancing the call to action, I hope to create a polished, engaging, and impactful final story.
+
