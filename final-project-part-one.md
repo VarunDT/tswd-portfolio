@@ -7,7 +7,7 @@
 This project explores the question: **"Sports vs. E-sports – Which one would you rather choose to watch or play?"**  
 This topic resonates deeply with me as it combines two of my favorite activities: playing sports (like football, volleyball, and cricket) and enjoying video games. Through this project, I hope to explore the highs and lows of both traditional sports and e-sports.  
 
-The project provides insights into their growth, audience demographics, lifestyle impacts, professional opportunities, and engagement trends. The objective is to present a balanced and comprehensive perspective, helping the audience determine which aligns better with their preferences and priorities. I hope to amke use of compelling data visualizations and actionable takeaways to make thye ausience understand the entertainment and participation value of both domains, and their potential coexistence or competition in the future.
+The project provides insights into their growth, audience demographics, lifestyle impacts, professional opportunities, and engagement trends. The objective is to present a balanced and comprehensive perspective, helping the audience determine which aligns better with their preferences and priorities. I hope to make use of compelling data visualizations and actionable takeaways to make thee audience understand the entertainment and participation value of both domains, and their potential coexistence or competition in the future.
 
 ---
 
@@ -80,7 +80,7 @@ The project provides insights into their growth, audience demographics, lifestyl
 
       <img width="1256" alt="Screenshot 2024-11-20 at 7 43 55 PM" src="https://github.com/user-attachments/assets/25cdfd9b-44d8-4122-87f2-0e8ca496d847">
 
-6. **Economic Accessibility, Career Oppurtunities and Average Earnings**
+6. **Economic Accessibility, Career Opportunities and Average Earnings**
    - Stacked bar chart comparing participation costs.
    - Word cloud illustrating career opportunities for athletes and gamers.
    - Chart visualizing earning potential for athletes and gamers.
