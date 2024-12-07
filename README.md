@@ -34,10 +34,13 @@ Critiquing visualizations with a focus on design and audience engagement.
 A deep dive into the world of E-sports, covering key aspects like growth, industry development, and potential future trends.
 
 **Part I: Project Planning and Initial Research**
+
 Outlining the project’s scope, identifying research questions, and gathering relevant datasets.
 
 **Part II: Storyboarding and Wireframes**
+
 Creating visual storyboards, sketches, and interactive elements while refining project narratives through feedback.
 
 **Part III: Final Story and Presentation**
+
 Delivering the final data story using compelling visualizations, analysis, and a well-structured narrative presented through Shorthand.
