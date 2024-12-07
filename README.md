@@ -32,6 +32,7 @@ Critiquing visualizations with a focus on design and audience engagement.
 
 ## Final project: [Part I](https://varundt.github.io/tswd-portfolio/final-project-part-one) | [Part II](https://varundt.github.io/tswd-portfolio/final-project-part-two) | [Part III](https://varundt.github.io/tswd-portfolio/final-project-part-three) | 
 A deep dive into the world of E-sports, covering key aspects like growth, industry development, and potential future trends.
+
 **Part I: Project Planning and Initial Research**
 Outlining the project’s scope, identifying research questions, and gathering relevant datasets.
 
