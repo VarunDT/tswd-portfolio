@@ -1,4 +1,4 @@
-| [Home Page](https://varundt.github.io/tswd-portfolio/) | [Visualizing Debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt) | [Critique by Design](https://varundt.github.io/tswd-portfolio/critique-by-design) | [Final Project I](https://varundt.github.io/tswd-portfolio/final-project-part-one) | [Final Project II](https://varundt.github.io/tswd-portfolio/final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://varundt.github.io/tswd-portfolio/) | [Visualizing Debt](https://varundt.github.io/tswd-portfolio/visualizing-government-debt) | [Critique by Design](https://varundt.github.io/tswd-portfolio/critique-by-design) | [Final Project I](https://varundt.github.io/tswd-portfolio/final-project-part-one) | [Final Project II](https://varundt.github.io/tswd-portfolio/final-project-part-two) | [Final Project III](https://varundt.github.io/tswd-portfolio/final-project-part-three) | 
 
 # Final project Part II: Wireframes / Storyboards and User Research
 # New High Level Summary 
