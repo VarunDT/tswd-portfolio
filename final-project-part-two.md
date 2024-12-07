@@ -15,7 +15,7 @@ Last week, I received feedback that my original topic, comparing sports and e-sp
 
 ### Growth Over Time (Revenue and Audience)  
 - Present data and future predictions on the explosive revenue growth of e-sports, including sponsorships, advertising, and event earnings.  
-- Analyze audience size and engagement trends, focusing on global viewership and participation. (Can try to draw comparisions to the sports industry.)
+- Analyze audience size and engagement trends, focusing on global viewership and participation. (Can try to draw comparisons to the sports industry.)
 
 ### Audience Demographics  
 - Examine who engages with e-sports, with breakdowns by age, gender, and geography.  
@@ -180,7 +180,7 @@ Data for age and gender can be fit in one line and just formatted (Currently as 
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-**Relevance of vizualization**: To show which countries and regions the trend has already reached in and which countries are yet to be taped.
+**Relevance of vizualization**: To show which countries and regions the trend has already reached in and which countries are yet to be tapped.
 
 Data Source: **YouGov**
 
@@ -188,7 +188,7 @@ Data Source: **YouGov**
 <img width="949" alt="Screenshot 2024-11-27 at 7 04 50 PM" src="https://github.com/user-attachments/assets/36a6d99b-ed44-409d-b9ef-e01969f10249">
 
 ### Cost and Ease of Playing  
-Tabular/Paragraph comparision of the costs for Traditional and E-sports (E-sports costs almost 3 times less than traditional sports). Small paragraph on how esports become popular during pre-covid and covid times due to ease of access and how even the disabled can easily participate. I was planning on doing something like what i had done in Part 1, but it unnecesarily increases the number of charts and also the professor questioned the authenticity of the data in his previous evaluation, hence the idea has been scraped.
+Tabular/Paragraph comparision of the costs for Traditional and E-sports (E-sports costs almost 3 times less than traditional sports). Small paragraph on how esports become popular during pre-covid and covid times due to ease of access and how even the disabled can easily participate. I was planning on doing something like what i had done in Part 1, but it unnecesarily increases the number of charts and also the professor questioned the authenticity of the data in his previous evaluation, hence the idea has been scrapped.
 (This area has too much potential, but not enough data is available online. Can ask the users for other ways in which this section can be portrayed)
 
 I also gave Chatgpt a few articles off the internet and asked it to give me data points and a few visualizations and this is what it turned up with:
@@ -203,7 +203,7 @@ I also gave Chatgpt a few articles off the internet and asked it to give me data
 
 ### Earning Potential  
 - Examine earning opportunities in e-sports, such as tournaments, sponsorships, and streaming(via viewership).
-- Includes prize money and viwership data.
+- Includes prize money and viewership data.
 
 <div class="tableauPlaceholder" id="viz1732766016834" style="position: relative">
     <noscript>
@@ -279,7 +279,7 @@ Data Source: **E-charts & E-SportsEarnings**
 </script>
 Data Source: **Statista**
 
-**Relevance of these 2 vizualizations**: To show the kind of money that people are already making from E-sports and the vast number of professional players each game already attracts. The second visualization shows that E-sports viewership has already crossed the 5 million benchmark in recent years and hence E-sports streams can easily be monitized and can serve as a source of boosted income and revenue for players and streamers. (Can move viewership in the Growth section based on User feedback, I personally feel it is better in this section).
+**Relevance of these 2 vizualizations**: To show the kind of money that people are already making from E-sports and the vast number of professional players each game already attracts. The second visualization shows that E-sports viewership has already crossed the 5 million benchmark in recent years and hence E-sports streams can easily be monetized and can serve as a source of boosted income and revenue for players and streamers. (Can move viewership in the Growth section based on User feedback, I personally feel it is better in this section).
 
 ### Future Scope/Conclusion  
 Small paragraph explaining the final argument and photos of AI trends and AR/VR development that can actually help in merging the 2 industries of traditional and digital sports.
@@ -339,7 +339,7 @@ I asked all four of the people I interviewed the following questions:
 |-------------------------------------------|----------------------------------------------------------------------------------|
 | Timeline is engaging but feels slightly over-detailed and burdened with information. | Simplifying the timeline either by highlighting fewer but more impactful milestones or adding shorter captions to provide concise context for each milestone. |
 | Cost comparison section felt slightly disorganized. | Reorganizing the cost comparison section to clearly highlight initial costs, recurring costs, and total costs in a side-by-side visual or make the table more appealing. Using bar charts or any other sort of infographic as thought in the 1st part of the project for better readability would be a good idea. |
-| Data visualizations are clear but lack interactivity or contrast. | Introducing contrasting colors and exploring adding interactive elements where possible (incorporating the scroll feature which I meantioned before could also add attraction for any viewer and keep them engaged). Also try to redo the demographic and player graph. |
+| Data visualizations are clear but lack interactivity or contrast. | Introducing contrasting colors and exploring adding interactive elements where possible (incorporating the scroll feature which I mentioned before could also add attraction for any viewer and keep them engaged). Also try to redo the demographic and player graph. |
 | Narrative lacks personal or relatable examples. | Incorporate short case studies or quotes from prominent e-sports players, teams, or fans to make the story more engaging and relatable. (Feels extra, only do if time permits) |
 | Call to action and/or title could better | Refine the call to action to encourage readers to actively participate in e-sports, emphasizing its inclusivity and minimal entry barriers and make the story more centrally aligned to the title. |
 | Layout could benefit from more spacing and better organization. | Add space between sections to improve readability. Introduce visual breaks such as icons or horizontal dividers for smoother transitions. Also adding prominent headers and nav sections on shorthand could do the trick. |
